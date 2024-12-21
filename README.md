@@ -1,4 +1,6 @@
 <p align = center ><img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/383f36b0e5494ce26c0fa6049c144c15c4db4d32/img/cover-2024-dic.png"> </p>
+
+<img align="right" width="400" alt="jhone" src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4"/>
 <h3 align="center">soy un apasionado frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
