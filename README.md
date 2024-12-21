@@ -16,6 +16,9 @@
 ---
 
 <img align="right" width="400" alt="jhone" src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4"/>
+
+![jhonatan remon](https://img.shields.io/badge/%20jhonatan-%20Remon-5865F2?style=flat&logo)&nbsp;
+
 <h3 align="center">soy un apasionado frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
