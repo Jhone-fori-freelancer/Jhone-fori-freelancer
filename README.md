@@ -1,7 +1,5 @@
 <p align = center ><img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/383f36b0e5494ce26c0fa6049c144c15c4db4d32/img/cover-2024-dic.png"> </p>
 
----
-
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![Backlog](https://img.shields.io/badge/-Backlog-009944?style=flat&logo=backlog&logoColor=white)&nbsp;
