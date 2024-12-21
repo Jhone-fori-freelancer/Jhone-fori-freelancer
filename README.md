@@ -1,4 +1,20 @@
 <p align = center ><img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/383f36b0e5494ce26c0fa6049c144c15c4db4d32/img/cover-2024-dic.png"> </p>
+---
+
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
+![Backlog](https://img.shields.io/badge/-Backlog-009944?style=flat&logo=backlog&logoColor=white)&nbsp;
+![Project Management](https://img.shields.io/badge/-Project%20Management-007bff?style=flat&logo=trello&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)&nbsp;
+![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-4285F4?style=flat&logo=googlecalendar&logoColor=white)&nbsp;
+![Google Meet](https://img.shields.io/badge/-Google%20Meet-00897B?style=flat&logo=googlemeet&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)&nbsp;
+![README](https://img.shields.io/badge/-README-000000?style=flat&logo=readthedocs&logoColor=white)&nbsp;
+
+---
 
 <img align="right" width="400" alt="jhone" src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4"/>
 <h3 align="center">soy un apasionado frontend developer</h3>
