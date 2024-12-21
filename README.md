@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Jhonatan Remon</h1>
+<p align = center ><img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/383f36b0e5494ce26c0fa6049c144c15c4db4d32/img/cover-2024-dic.png"> </p>
 <h3 align="center">soy un apasionado frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
