@@ -25,8 +25,6 @@
 
 </div>
 
----
-
 <h3 align="center">soy un apasionado frontend developer</h3>
 
 Soy un freelancer multidisciplinario con experiencia en diversas áreas del mundo digital. Me especializo en llevar ideas a la realidad, trabajando de forma independiente en proyectos que requieren creatividad, estrategia y desarrollo técnico.
