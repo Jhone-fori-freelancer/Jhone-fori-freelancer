@@ -16,17 +16,19 @@
 ---
 
 <div>
-  <img align="center" width="400" alt="jhone" src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4"/>
+
+<img align="right" width="400" alt="jhone" src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4"/>
+
+<div align="center">
+  <br />
+   <img src="https://img.shields.io/badge/%20Multidisciplinario-%20Freelancer-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 200px;"/>
+
 </div>
 
-<div align="center" style="clear: both; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/%20jhonatan-%20Remon-5865F2?style=flat&logo" alt="jhonatan remon"/>
-</div>
 
-</div>
 
-<h3 align="center">soy un apasionado frontend developer</h3>
-
+<h2> / about me /</h2>
+  
 Soy un freelancer multidisciplinario con experiencia en diversas áreas del mundo digital. Me especializo en llevar ideas a la realidad, trabajando de forma independiente en proyectos que requieren creatividad, estrategia y desarrollo técnico.
 
 💼 Project Manager | Scrum Master – Gestiono proyectos digitales con metodologías ágiles, optimizando tiempos y maximizando resultados.
@@ -40,10 +42,15 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 🔗 ¿Tienes un proyecto en mente? ¡Conversemos!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jhonatanremon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jhonatanremon" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <br />
+   <img src="https://img.shields.io/badge/%20Jhonatan-%20Remon-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 600px; margin-top: -50px;"/>
+
+</div>
+
+
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
