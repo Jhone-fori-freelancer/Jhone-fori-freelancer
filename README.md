@@ -23,6 +23,19 @@
 
 <h3 align="center">soy un apasionado frontend developer</h3>
 
+Soy un freelancer multidisciplinario con experiencia en diversas áreas del mundo digital. Me especializo en llevar ideas a la realidad, trabajando de forma independiente en proyectos que requieren creatividad, estrategia y desarrollo técnico.
+
+💼 Project Manager | Scrum Master – Gestiono proyectos digitales con metodologías ágiles, optimizando tiempos y maximizando resultados.
+🖥️ Frontend Developer – Desarrollo aplicaciones web accesibles, responsivas y optimizadas para SEO y Core Web Vitals.
+📊 Marketer – Creo estrategias de marketing digital orientadas a resultados, incluyendo campañas de ads, SEO, branding y marketing de contenidos. Me enfoco en el análisis de datos para mejorar conversiones y presencia online.
+🎨 Diseñador Gráfico – Diseño identidades visuales, interfaces y materiales publicitarios que comunican y conectan con la audiencia.
+
+🔧 En constante evolución: Actualmente, estoy profundizando en desarrollo de software para ampliar mis habilidades y abordar proyectos técnicos más complejos.
+
+🚀 Como freelancer, valoro la libertad de crear, innovar y colaborar con clientes de diferentes industrias, ofreciendo soluciones digitales personalizadas y efectivas.
+
+🔗 ¿Tienes un proyecto en mente? ¡Conversemos!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jhonatanremon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jhonatanremon" height="30" width="40" /></a>
