@@ -53,20 +53,71 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 
 
----
-h3 align="center">Project Manager - Medilink  - No Country</h3>
+<h3 align="center">Project Manager  - No Country - Klow Hub - H3-09 - Hackathon</h3>
+<div align="center">
+<br>
 
- [![Git Projects](https://img.shields.io/badge/-Git%20Projects-007bff?style=flat&logo=git&logoColor=white)](https://github.com/tu-usuario?tab=repositories)&nbsp;
-[![No Country Projects](https://img.shields.io/badge/-No%20Country-4D4DFF?style=flat&logoColor=white&labelColor=FC16AA)](https://www.nocountry.tech)&nbsp;
-[![Medilink](https://img.shields.io/badge/-Medilink%20-0047AB?style=flat&logoColor=white)](https://www.nocountry.tech)&nbsp;
-[![Medilink](https://img.shields.io/badge/-No%20Country-4D4DFF?style=flat&logoColor=white&labelColor=FC16AA)](https://www.nocountry.tech)&nbsp;
-[![No Country Projects](https://img.shields.io/badge/-No%20Country-4D4DFF?style=flat&logo=https://raw.githubusercontent.com/Jhone-fori-freelancer/no-country/refs/heads/main/icono-nocountry.svg)](https://www.nocountry.tech)&nbsp;
+<a href="https://github.com/No-Country-simulation/h3-09-klowhub/tree/dev/server#readme">
+  <strong>Docs»</strong>
+</a>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jhone-fori-freelancer)&nbsp;
+[![Git Projects](https://img.shields.io/badge/-Git%20Projects-007bff?style=flat&logo=git&logoColor=white)](https://github.com/tu-usuario?tab=repositories)&nbsp;
+[![No Country](https://img.shields.io/badge/No-Country-4D4DFF?style=flat&logo=nocontryb&logoColor=white&labelColor=FC16AA)](https://github.com/No-Country-simulation)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/XkQgUPuW)&nbsp;
+[![Klow Hub Project](https://img.shields.io/badge/-Klow%20Hub-4D4DFF?style=flat&logo=https://raw.githubusercontent.com/Jhone-fori-freelancer/no-country/refs/heads/main/icono-nocountry.svg)](https://www.nocountry.tech)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)&nbsp;
 
 
-<br />
-    <a href="https://github.com/No-Country-simulation/h3-09-klowhub/tree/dev/server#readme"><strong>Explore the docs »</strong></a>
-    <br />
+
+</div>
+
+
+    
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_2.jpg">
+</p> 
+
+
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a46500dcbaac90fc405b9f867255f5091380a7c5/img/klowhub-img-PM/KlowHub.jpg">
+</p> 
+
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_7.jpg">
+</p> 
+
+<div align="center">
+  <br />
+   <img src="https://img.shields.io/badge/%20Jhonatan-%20Remon-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 600px; margin-top: -50px;"/>
+
+</div>
+
+
+
+---
+<h3 align="center">Project Manager  - No Country - Medilink - s18-22-t-java-react - Simulation</h3>
+<div align="center">
+<br>
+
+<a href="https://github.com/No-Country-simulation/s18-22-t-java-react">
+  <strong>Docs»</strong>
+</a>
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jhone-fori-freelancer)&nbsp;
+ [![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)](https://app.clickup.com/9011373809/v/l/t/9011373809)&nbsp;
+ [![No Country](https://img.shields.io/badge/No-Country-4D4DFF?style=flat&logo=nocontryb&logoColor=white&labelColor=FC16AA)](https://github.com/No-Country-simulation)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/tu-enlace-personalizado)&nbsp;
+[![Medilink](https://img.shields.io/badge/-Medilink%20-0047AB?style=flat&logoColor=white)](https://github.com/No-Country-simulation/s18-22-t-java-react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)&nbsp;
+  
+
+
+
+
+</div>
+
+
     
 <p align="center">
   <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a2e73b7c21bf9157034be1c576b0283cae100c84/backlog-klowhub.jpg">
@@ -74,13 +125,50 @@ h3 align="center">Project Manager - Medilink  - No Country</h3>
 
 
 <p align="center">
-  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_2.jpg">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/1e37f7fef8e2e20c89473a1220f4e028d4ed7298/img/img-clickup-readme-PROJECT-MANAGER/medilink-frontend-clickup.png">
 </p> 
 
 <p align="center">
   <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_7.jpg">
 </p> 
 
+<p align="center">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/1e37f7fef8e2e20c89473a1220f4e028d4ed7298/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n.jpg">
+</p> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<div align="center">
+  <br />
+   <img src="https://img.shields.io/badge/%20Jhonatan-%20Remon-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 600px; margin-top: -50px;"/>
+
+</div>
+
+
+
+---
+
+  
+
+  
+  
+  
+
+  
+  </br></br>
+  
+  
+  
+  
+  
+  
+  
+  </br></br>
+  
+<div align="right">
+<a href="https://www.linkedin.com/posts/jhonatanremon_el-equilibrio-entre-el-mundo-digital-y-la-activity-7276037259622043648-OSIX?utm_source=share&utm_medium=member_desktop">Image by Jhonatan Remon</a>
+  </div>
+  </div>
+
+------
+Credit: [Jhonatan Remon](https://github.com/Jhone-fori-freelancer)
+
+Last Edited on: 20/12/2024
