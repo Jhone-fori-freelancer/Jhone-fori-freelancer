@@ -18,7 +18,7 @@
 
 ---
 
-<div>
+<!--<div>
 
 <img align="right" width="400" alt="jhone" src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4"/>
 
@@ -26,7 +26,23 @@
   <br />
    <img src="https://img.shields.io/badge/%20Multidisciplinario-%20Freelancer-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 200px;"/>
 
+</div> -->
+<div>
+  <img align="right" width="400" alt="jhone" 
+  src="https://media.licdn.com/dms/image/v2/D4D22AQErpvijeB8B1g/feedshare-shrink_1280/B4DZPmxuVfGUAk-/0/1734743618573?e=1737590400&v=beta&t=uuENDjQjrQDw8ClmAakczjtGj9s6WnY3vDIqaptYRf4" 
+  style="
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  filter: blur(2px); 
+  transition: filter 0.3s ease-in-out, border 0.3s ease-in-out;" 
+  onmouseover="this.style.filter='blur(0)'; this.style.border='4px solid #5865F2'" 
+  onmouseout="this.style.filter='blur(2px)'; this.style.border='none'"/>
+
+  <div align="center" style="margin-top: 30px;">
+    <img src="https://img.shields.io/badge/Multidisciplinario-Freelancer-5865F2?style=flat&logo=freelancer&logoColor=white" alt="jhonatan remon" />
+  </div>
 </div>
+
 
 
 
