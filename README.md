@@ -30,7 +30,10 @@
 
 
 
-<h2> / about me /</h2>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  
+  Sobre Mi!  
+</h1>
   
 Soy un freelancer multidisciplinario con experiencia en diversas áreas del mundo digital. Me especializo en llevar ideas a la realidad, trabajando de forma independiente en proyectos que requieren creatividad, estrategia y desarrollo técnico.
 
