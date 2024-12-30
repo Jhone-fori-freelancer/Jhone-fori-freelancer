@@ -53,7 +53,7 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 
 
-<h3 align="center">Project Manager  - No Country - Klow Hub - H3-09 - Hackathon</h3>
+<h1 align="center">Project Manager  - No Country - Klow Hub - H3-09 - Hackathon</h1>
 <div align="center">
 <br>
 
@@ -102,7 +102,7 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 
 ---
-<h3 align="center">Project Manager  - No Country - Medilink - s18-22-t-java-react - Simulation</h3>
+<h1 align="center">Project Manager  - No Country - Medilink - s18-22-t-java-react - Simulation</h1>
 <div align="center">
 <br>
 
@@ -196,6 +196,8 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
   </div>
 
 ------
-Credit: [Jhonatan Remon](https://github.com/Jhone-fori-freelancer)
 
-Last Edited on: 20/12/2024
+<div align="center" style="font-family: 'Fira Code', monospace; font-size: 2rem;">
+    <h4>======== Credit: [Jhonatan Remon](https://github.com/Jhone-fori-freelancer) ========</h4>
+    Last Edited on: 20/12/2024
+</div>
