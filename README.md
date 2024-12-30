@@ -72,7 +72,9 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 </div>
 
-
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a2e73b7c21bf9157034be1c576b0283cae100c84/backlog-klowhub.jpg">
+</p> 
     
 <p align="center">
   <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_2.jpg">
@@ -87,9 +89,7 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
   <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_7.jpg">
 </p> 
 
-<p align="center">
-  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a2e73b7c21bf9157034be1c576b0283cae100c84/backlog-klowhub.jpg">
-</p> 
+
 
 
 
@@ -126,21 +126,42 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
     
 <p align="center">
-  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a2e73b7c21bf9157034be1c576b0283cae100c84/backlog-klowhub.jpg">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-clickup-readme-PROJECT-MANAGER/IMG-CLICKUP-BACKEND-.png">
 </p> 
 
 
 <p align="center">
-  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/1e37f7fef8e2e20c89473a1220f4e028d4ed7298/img/img-clickup-readme-PROJECT-MANAGER/medilink-frontend-clickup.png">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-clickup-readme-PROJECT-MANAGER/medilink-frontend-clickup.png">
 </p> 
 
 <p align="center">
-  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_7.jpg">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-clickup-readme-PROJECT-MANAGER/IMG-CLICKUP-UX-UI.png">
 </p> 
 
 <p align="center">
-<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/1e37f7fef8e2e20c89473a1220f4e028d4ed7298/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n.jpg">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-clickup-readme-PROJECT-MANAGER/IMG-CLICKUP-QA.png">
 </p> 
+
+<p align="center">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n_page_2.jpg">
+</p>
+
+<p align="center">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n.jpg">
+</p>
+
+<p align="center">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n_page_6.jpg">
+</p>
+
+<p align="center">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n_page_7.jpg">
+</p>
+
+<p align="center">
+<img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/8300a7838f2471cf65c1a640ef17929565bea281/img/img-medilink-project-manager/Medilink%20presentaci%C3%B3n_page_9.jpg">
+</p>
+
 
 <div align="center">
   <br />
