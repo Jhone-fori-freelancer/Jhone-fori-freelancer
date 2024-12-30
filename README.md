@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Fira Code', monospace; font-size: 2rem;">
-    <h4>========  Project Manager  -Readme-2024 ========</h4>
+    <h4>====== Project Manager  -Readme-2024 ======</h4>
 </div>
 <p align = center ><img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/383f36b0e5494ce26c0fa6049c144c15c4db4d32/img/cover-2024-dic.png"> </p>
 
@@ -93,15 +93,16 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 
 
+
+
+
+
+---
 <div align="center">
   <br />
    <img src="https://img.shields.io/badge/%20Jhonatan-%20Remon-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 600px; margin-top: -50px;"/>
 
 </div>
-
-
-
----
 <h1 align="center">Project Manager  - No Country - Medilink - s18-22-t-java-react - Simulation</h1>
 <div align="center">
 <br>
@@ -198,6 +199,6 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 ------
 
 <div align="center" style="font-family: 'Fira Code', monospace; font-size: 2rem;">
-    <h4>======== Credit: [Jhonatan Remon](https://github.com/Jhone-fori-freelancer) ========</h4>
+    <h4>===== Credit: [Jhonatan Remon](https://github.com/Jhone-fori-freelancer) =====</h4>
     Last Edited on: 20/12/2024
 </div>
