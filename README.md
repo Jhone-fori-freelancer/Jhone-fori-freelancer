@@ -51,6 +51,33 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 
 
 ---
+h3 align="center">Project Manager - Medilink  - No Country</h3>
+
+ [![Git Projects](https://img.shields.io/badge/-Git%20Projects-007bff?style=flat&logo=git&logoColor=white)](https://github.com/tu-usuario?tab=repositories)&nbsp;
+[![No Country Projects](https://img.shields.io/badge/-No%20Country-4D4DFF?style=flat&logoColor=white&labelColor=FC16AA)](https://www.nocountry.tech)&nbsp;
+[![Medilink](https://img.shields.io/badge/-Medilink%20-0047AB?style=flat&logoColor=white)](https://www.nocountry.tech)&nbsp;
+[![Medilink](https://img.shields.io/badge/-No%20Country-4D4DFF?style=flat&logoColor=white&labelColor=FC16AA)](https://www.nocountry.tech)&nbsp;
+[![No Country Projects](https://img.shields.io/badge/-No%20Country-4D4DFF?style=flat&logo=https://raw.githubusercontent.com/Jhone-fori-freelancer/no-country/refs/heads/main/icono-nocountry.svg)](https://www.nocountry.tech)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)&nbsp;
+
+
+<br />
+    <a href="https://github.com/No-Country-simulation/h3-09-klowhub/tree/dev/server#readme"><strong>Explore the docs »</strong></a>
+    <br />
+    
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a2e73b7c21bf9157034be1c576b0283cae100c84/backlog-klowhub.jpg">
+</p> 
+
+
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_2.jpg">
+</p> 
+
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_7.jpg">
+</p> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
