@@ -87,6 +87,12 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
   <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/82eb84c9b6b533b4047b3423508d40ecb7a9338a/img/klowhub-img-PM/KlowHub_page_7.jpg">
 </p> 
 
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/blob/a2e73b7c21bf9157034be1c576b0283cae100c84/backlog-klowhub.jpg">
+</p> 
+
+
+
 <div align="center">
   <br />
    <img src="https://img.shields.io/badge/%20Jhonatan-%20Remon-5865F2?style=flat&logo" alt="jhonatan remon" style="margin-left: 600px; margin-top: -50px;"/>
