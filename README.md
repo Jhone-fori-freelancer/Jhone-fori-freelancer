@@ -75,7 +75,29 @@ Soy un freelancer multidisciplinario con experiencia en diversas áreas del mund
 <h1 align="center">Project Manager  - No Country - Klow Hub - H3-09 - Hackathon</h1>
 <div align="center">
 <br>
+</div>
 
+<p align="center">
+  <img src="https://github.com/Jhone-fori-freelancer/Jhone-fori-freelancer/tree/46348d32cf6d342254887219c916c13f6151ef2d/img/certificado-diploma-hackathon">
+</p> 
+---
+<div align="center">
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
 <a href="https://github.com/No-Country-simulation/h3-09-klowhub/tree/dev/server#readme">
   <strong>Docs»</strong>
 </a>
